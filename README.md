@@ -12,9 +12,9 @@ cd backend
 npm install
 
 ## Create .env file
--PORT=3000
--MONGODB_URI=mongodb://127.0.0.1:27017/mernPractical
--JWT_SECRET=your_secret_key
+PORT=3000
+MONGODB_URI=mongodb://127.0.0.1:27017/mernPractical
+JWT_SECRET=your_secret_key
 
 ## Start backend
 npm start
